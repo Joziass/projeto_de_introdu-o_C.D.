@@ -13,3 +13,5 @@ Perguntas:
           2- quando o combustível começou a aumentar 
           3- de quantos por cento (%) foi o aumento 
 OBS:as perguntas podem mudar
+
+Dados:https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
