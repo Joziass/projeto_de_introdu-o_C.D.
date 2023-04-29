@@ -14,4 +14,5 @@ Perguntas:
           3- de quantos por cento (%) foi o aumento 
 OBS:as perguntas podem mudar
 
-Dados:https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
+Dados:https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp
+
